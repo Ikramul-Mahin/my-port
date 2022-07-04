@@ -1,3 +1,40 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+span {
+    color: orange;
+}
+
+.home-sec {
+    display: flex;
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.half-wid {
+    width: 50%;
+    padding-left: 6%;
+
+}
+
+.half-wid-img img {
+    width: 80%;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
 }
