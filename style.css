@@ -58,3 +58,16 @@ span {
     background-position: bottom right;
     background-repeat: no-repeat;
 }
+
+.expe-2 {
+    display: flex;
+}
+
+.flex {
+    display: flex;
+}
+
+.ex {
+    background-image: url();
+    background-repeat: no-repeat;
+}
