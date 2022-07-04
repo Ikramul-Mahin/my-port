@@ -68,6 +68,32 @@ span {
 }
 
 .ex {
-    background-image: url();
+    margin-top: 5rem;
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
+    background-position: left bottom;
+
+}
+
+h3 {
+    color: rgb(169, 154, 17);
+}
+
+.left {
+    box-shadow: 10px 10px 20px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 7px;
+    border-left: 7px solid blue;
+
+}
+
+.right {
+    border-left: 7px solid #ff0000;
+}
+
+footer {
+    margin-top: 4rem;
+    text-align: center;
 }
