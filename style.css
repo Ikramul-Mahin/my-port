@@ -38,3 +38,23 @@ span {
     color: white;
     font-weight: 400;
 }
+
+.sec-2 {
+    display: flex;
+    margin-top: 7rem;
+
+}
+
+.img-2 img {
+    width: 80%;
+}
+
+.text-2 {
+    width: 50%;
+}
+
+.dream-big {
+    background-image: url(img/dream-bg.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
